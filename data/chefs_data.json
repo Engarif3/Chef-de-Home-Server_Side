@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/index-1655992639.jpg?crop=0.622xw:1.00xh;0.200xw,0&resize=980:*",
+    "name": "Jacques Dupont",
+    "experience": 15,
+    "recipes": 120,
+    "likes": 450,
+    "bio": "Jacques Dupont is a renowned French chef with over 15 years of experience in the culinary arts. He is known for his innovative and creative approach to cooking, and has been awarded numerous accolades for his work in the field."
+  },
+  {
+    "id": 2,
+    "image": "https://media1.debuyer.com/img/cms/Pages%20fixes%20et%20CMS/bocuse/2022/NAIS_kwik.jpg",
+    "name": "Marie Dubois",
+    "experience": 8,
+    "recipes": 80,
+    "likes": 200,
+    "bio": "Marie Dubois is a talented chef hailing from the south of France. She specializes in traditional French cuisine, and has garnered a following for her rustic yet refined approach to cooking."
+  },
+  {
+    "id": 3,
+    "image": "https://static01.nyt.com/images/2018/01/21/world/europe/21bocuse-print1/merlin_132566213_4b78d93f-79b0-4ef1-bcfc-325a6f2b7aff-superJumbo.jpg?quality=75&auto=webp",
+    "name": "Antoine Bernard",
+    "experience": 12,
+    "recipes": 95,
+    "likes": 350,
+    "bio": "Antoine Bernard is a classically trained chef who has worked in some of the finest kitchens in Europe. He is known for his meticulous attention to detail and his ability to coax the most exquisite flavors out of his ingredients."
+  },
+  {
+    "id": 4,
+    "image": "https://cdn.images.express.co.uk/img/dynamic/14/590x/Main-489738.jpg",
+    "name": "Sophie Martin",
+    "experience": 6,
+    "recipes": 50,
+    "likes": 120,
+    "bio": "Sophie Martin is a rising star in the culinary world, known for her innovative take on classic French dishes. She has quickly gained a reputation for her bold and unexpected flavor combinations, and has been recognized with several prestigious awards."
+  },
+  {
+    "id": 5,
+    "image": "https://static.wixstatic.com/media/dffc16_376e250bbf0f496f97663beedcae7023~mv2.jpeg/v1/fill/w_1140,h_913,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/dffc16_376e250bbf0f496f97663beedcae7023~mv2.jpeg",
+    "name": "Luc Chevalier",
+    "experience": 10,
+    "recipes": 100,
+    "likes": 300,
+    "bio": "Luc Chevalier is a master of French cuisine, with over a decade of experience working in Michelin-starred restaurants throughout the country. He is known for his innovative use of classic French techniques and his ability to create dishes that are both visually stunning and delicious. In his spare time, Luc enjoys hiking in the mountains and experimenting with new ingredients in his home kitchen."},
+  {
+    "id": 6,
+    "image": "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2017/03/09/b84c786bf8894a41ace6e989ebd04b7d_Elena+Arzak.jpg",
+    "name": "Camille Rousseau",
+    "experience": 3,
+    "recipes": 30,
+    "likes": 50,
+    "bio":"Camille Rousseau is a rising star in the culinary world, known for her creative approach to French cuisine. With just a few years of experience under her belt, Camille has already made a name for herself as an expert in pastry, with a particular passion for creating beautiful and delicious desserts. When she's not in the kitchen, Camille enjoys practicing yoga and traveling to new places to discover inspiration for her next culinary creations."
+  }
+]
