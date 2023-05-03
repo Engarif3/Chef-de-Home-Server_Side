@@ -22,7 +22,18 @@
           "1 egg",
           "Salt and pepper"
         ],
-        "cooking_method": "1. Preheat the oven to 425°F. 2. Season the beef with salt and pepper. 3. Heat a skillet over high heat and sear the beef until browned on all sides. 4. Spread dijon mustard on the beef. 5. Pulse the mushrooms, shallots, and thyme in a food processor. 6. Heat a skillet over medium-high heat and sauté the mushroom mixture until browned. 7. Deglaze the pan with red wine. 8. Roll out puff pastry and wrap the beef. 9. Brush with beaten egg. 10. Bake for 40 minutes or until pastry is golden brown.",
+        "cooking_method": [
+          "Preheat the oven to 425°F.",
+          "Season the beef with salt and pepper.",
+          "Heat a skillet over high heat and sear the beef until browned on all sides.",
+          "Spread dijon mustard on the beef.",
+          "Pulse the mushrooms, shallots, and thyme in a food processor.",
+          "Heat a skillet over medium-high heat and sauté the mushroom mixture until browned.",
+          "Deglaze the pan with red wine.",
+          "Roll out puff pastry and wrap the beef.",
+          "Brush with beaten egg.",
+          "Bake for 40 minutes or until pastry is golden brown."
+        ],
         "rating": 4.5
         
       },
@@ -37,7 +48,14 @@
           "Salt and pepper",
           "Arugula and parmesan cheese, for serving"
         ],
-        "cooking_method": "1. Freeze the beef for 30 minutes. 2. Slice the beef thinly. 3. Whisk together olive oil, lemon juice, dijon mustard, garlic, salt, and pepper. 4. Arrange the beef slices on a plate. 5. Drizzle the dressing over the beef. 6. Top with arugula and shaved parmesan cheese.",
+        "cooking_method": [
+          "Freeze the beef for 30 minutes.",
+          "Slice the beef thinly.",
+          "Whisk together olive oil, lemon juice, dijon mustard, garlic, salt, and pepper.",
+          "Arrange the beef slices on a plate.",
+          "Drizzle the dressing over the beef.",
+          "Top with arugula and shaved parmesan cheese."
+        ],
         "rating": 4.2
         
       },
@@ -55,7 +73,7 @@
           "1/4 cup water",
           "1/4 cup vegetable oil"
         ],
-        "cooking_method": "1. In a small bowl, whisk together soy sauce, brown sugar, cornstarch, and water. 2. Heat vegetable oil in a wok or skillet over high heat. 3. Add the beef and stir-fry until browned. 4. Remove the beef from the wok and set aside. 5. Add the bell peppers and onion to the wok and stir-fry until tender. 6. Add the garlic and stir-fry for 30 seconds. 7. Add the beef back to the wok and pour in the sauce. 8. Stir-fry until the sauce thickens.",
+        "cooking_method":[  "In a small bowl, whisk together soy sauce, brown sugar, cornstarch, and water.",  "Heat vegetable oil in a wok or skillet over high heat.",  "Add the beef and stir-fry until browned.",  "Remove the beef from the wok and set aside.",  "Add the bell peppers and onion to the wok and stir-fry until tender.",  "Add the garlic and stir-fry for 30 seconds.",  "Add the beef back to the wok and pour in the sauce.",  "Stir-fry until the sauce thickens."],
         "rating": 3.8
         
       }
@@ -84,7 +102,8 @@
           "1 egg",
           "Salt and pepper"
         ],
-        "cooking_method": "1. Preheat the oven to 425°F. 2. Season the beef with salt and pepper. 3. Heat a skillet over high heat and sear the beef until browned on all sides. 4. Spread dijon mustard on the beef. 5. Pulse the mushrooms, shallots, and thyme in a food processor. 6. Heat a skillet over medium-high heat and sauté the mushroom mixture until browned. 7. Deglaze the pan with red wine. 8. Roll out puff pastry and wrap the beef. 9. Brush with beaten egg. 10. Bake for 40 minutes or until pastry is golden brown.",
+        "cooking_method": [  "Preheat the oven to 425°F",  "Season the beef with salt and pepper.",  "Heat a skillet over high heat and sear the beef until browned on all sides.",  "Spread dijon mustard on the beef.",  "Pulse the mushrooms, shallots, and thyme in a food processor.",  "Heat a skillet over medium-high heat and sauté the mushroom mixture until browned.",  "Deglaze the pan with red wine.",  "Roll out puff pastry and wrap the beef.",  "Brush with beaten egg.",  "Bake for 40 minutes or until pastry is golden brown."]
+          ,
         "rating": 4.5
         
       },
@@ -99,7 +118,8 @@
           "Salt and pepper",
           "Arugula and parmesan cheese, for serving"
         ],
-        "cooking_method": "1. Freeze the beef for 30 minutes. 2. Slice the beef thinly. 3. Whisk together olive oil, lemon juice, dijon mustard, garlic, salt, and pepper. 4. Arrange the beef slices on a plate. 5. Drizzle the dressing over the beef. 6. Top with arugula and shaved parmesan cheese.",
+        "cooking_method": [  "Freeze the beef for 30 minutes.",  "Slice the beef thinly.",  "Whisk together olive oil, lemon juice, dijon mustard, garlic, salt, and pepper.",  "Arrange the beef slices on a plate.",  "Drizzle the dressing over the beef.",  "Top with arugula and shaved parmesan cheese."]
+          ,
         "rating": 4.2
         
       },
@@ -117,7 +137,8 @@
           "1/4 cup water",
           "1/4 cup vegetable oil"
         ],
-        "cooking_method": "1. In a small bowl, whisk together soy sauce, brown sugar, cornstarch, and water. 2. Heat vegetable oil in a wok or skillet over high heat. 3. Add the beef and stir-fry until browned. 4. Remove the beef from the wok and set aside. 5. Add the bell peppers and onion to the wok and stir-fry until tender. 6. Add the garlic and stir-fry for 30 seconds. 7. Add the beef back to the wok and pour in the sauce. 8. Stir-fry until the sauce thickens.",
+        "cooking_method": [    "In a small bowl, whisk together soy sauce, brown sugar, cornstarch, and water.",    "Heat vegetable oil in a wok or skillet over high heat.",    "Add the beef and stir-fry until browned.",    "Remove the beef from the wok and set aside.",    "Add the bell peppers and onion to the wok and stir-fry until tender.",    "Add the garlic and stir-fry for 30 seconds.",    "Add the beef back to the wok and pour in the sauce.",    "Stir-fry until the sauce thickens."]
+          ,
         "rating": 3.8
         
       }
@@ -146,7 +167,8 @@
           "1 egg",
           "Salt and pepper"
         ],
-        "cooking_method": "1. Preheat the oven to 425°F. 2. Season the beef with salt and pepper. 3. Heat a skillet over high heat and sear the beef until browned on all sides. 4. Spread dijon mustard on the beef. 5. Pulse the mushrooms, shallots, and thyme in a food processor. 6. Heat a skillet over medium-high heat and sauté the mushroom mixture until browned. 7. Deglaze the pan with red wine. 8. Roll out puff pastry and wrap the beef. 9. Brush with beaten egg. 10. Bake for 40 minutes or until pastry is golden brown.",
+         "cooking_method": [  "Preheat the oven to 425°F",  "Season the beef with salt and pepper.",  "Heat a skillet over high heat and sear the beef until browned on all sides.",  "Spread dijon mustard on the beef.",  "Pulse the mushrooms, shallots, and thyme in a food processor.",  "Heat a skillet over medium-high heat and sauté the mushroom mixture until browned.",  "Deglaze the pan with red wine.",  "Roll out puff pastry and wrap the beef.",  "Brush with beaten egg.",  "Bake for 40 minutes or until pastry is golden brown."]
+          ,
         "rating": 4.5
         
       },
@@ -161,7 +183,14 @@
           "Salt and pepper",
           "Arugula and parmesan cheese, for serving"
         ],
-        "cooking_method": "1. Freeze the beef for 30 minutes. 2. Slice the beef thinly. 3. Whisk together olive oil, lemon juice, dijon mustard, garlic, salt, and pepper. 4. Arrange the beef slices on a plate. 5. Drizzle the dressing over the beef. 6. Top with arugula and shaved parmesan cheese.",
+         "cooking_method": [
+          "Freeze the beef for 30 minutes.",
+          "Slice the beef thinly.",
+          "Whisk together olive oil, lemon juice, dijon mustard, garlic, salt, and pepper.",
+          "Arrange the beef slices on a plate.",
+          "Drizzle the dressing over the beef.",
+          "Top with arugula and shaved parmesan cheese."
+        ],
         "rating": 4.2
         
       },
@@ -179,7 +208,8 @@
           "1/4 cup water",
           "1/4 cup vegetable oil"
         ],
-        "cooking_method": "1. In a small bowl, whisk together soy sauce, brown sugar, cornstarch, and water. 2. Heat vegetable oil in a wok or skillet over high heat. 3. Add the beef and stir-fry until browned. 4. Remove the beef from the wok and set aside. 5. Add the bell peppers and onion to the wok and stir-fry until tender. 6. Add the garlic and stir-fry for 30 seconds. 7. Add the beef back to the wok and pour in the sauce. 8. Stir-fry until the sauce thickens.",
+        "cooking_method": [    "In a small bowl, whisk together soy sauce, brown sugar, cornstarch, and water.",    "Heat vegetable oil in a wok or skillet over high heat.",    "Add the beef and stir-fry until browned.",    "Remove the beef from the wok and set aside.",    "Add the bell peppers and onion to the wok and stir-fry until tender.",    "Add the garlic and stir-fry for 30 seconds.",    "Add the beef back to the wok and pour in the sauce.",    "Stir-fry until the sauce thickens."]
+          ,
         "rating": 3.8
         
       }
@@ -208,7 +238,8 @@
           "1 egg",
           "Salt and pepper"
         ],
-        "cooking_method": "1. Preheat the oven to 425°F. 2. Season the beef with salt and pepper. 3. Heat a skillet over high heat and sear the beef until browned on all sides. 4. Spread dijon mustard on the beef. 5. Pulse the mushrooms, shallots, and thyme in a food processor. 6. Heat a skillet over medium-high heat and sauté the mushroom mixture until browned. 7. Deglaze the pan with red wine. 8. Roll out puff pastry and wrap the beef. 9. Brush with beaten egg. 10. Bake for 40 minutes or until pastry is golden brown.",
+         "cooking_method": [  "Preheat the oven to 425°F",  "Season the beef with salt and pepper.",  "Heat a skillet over high heat and sear the beef until browned on all sides.",  "Spread dijon mustard on the beef.",  "Pulse the mushrooms, shallots, and thyme in a food processor.",  "Heat a skillet over medium-high heat and sauté the mushroom mixture until browned.",  "Deglaze the pan with red wine.",  "Roll out puff pastry and wrap the beef.",  "Brush with beaten egg.",  "Bake for 40 minutes or until pastry is golden brown."]
+          ,
         "rating": 4.5
         
       },
@@ -223,7 +254,14 @@
           "Salt and pepper",
           "Arugula and parmesan cheese, for serving"
         ],
-        "cooking_method": "1. Freeze the beef for 30 minutes. 2. Slice the beef thinly. 3. Whisk together olive oil, lemon juice, dijon mustard, garlic, salt, and pepper. 4. Arrange the beef slices on a plate. 5. Drizzle the dressing over the beef. 6. Top with arugula and shaved parmesan cheese.",
+         "cooking_method": [
+          "Freeze the beef for 30 minutes.",
+          "Slice the beef thinly.",
+          "Whisk together olive oil, lemon juice, dijon mustard, garlic, salt, and pepper.",
+          "Arrange the beef slices on a plate.",
+          "Drizzle the dressing over the beef.",
+          "Top with arugula and shaved parmesan cheese."
+        ],
         "rating": 4.2
         
       },
@@ -241,7 +279,8 @@
           "1/4 cup water",
           "1/4 cup vegetable oil"
         ],
-        "cooking_method": "1. In a small bowl, whisk together soy sauce, brown sugar, cornstarch, and water. 2. Heat vegetable oil in a wok or skillet over high heat. 3. Add the beef and stir-fry until browned. 4. Remove the beef from the wok and set aside. 5. Add the bell peppers and onion to the wok and stir-fry until tender. 6. Add the garlic and stir-fry for 30 seconds. 7. Add the beef back to the wok and pour in the sauce. 8. Stir-fry until the sauce thickens.",
+        "cooking_method": [    "In a small bowl, whisk together soy sauce, brown sugar, cornstarch, and water.",    "Heat vegetable oil in a wok or skillet over high heat.",    "Add the beef and stir-fry until browned.",    "Remove the beef from the wok and set aside.",    "Add the bell peppers and onion to the wok and stir-fry until tender.",    "Add the garlic and stir-fry for 30 seconds.",    "Add the beef back to the wok and pour in the sauce.",    "Stir-fry until the sauce thickens."]
+          ,
         "rating": 3.8
         
       }
@@ -270,7 +309,8 @@
           "1 egg",
           "Salt and pepper"
         ],
-        "cooking_method": "1. Preheat the oven to 425°F. 2. Season the beef with salt and pepper. 3. Heat a skillet over high heat and sear the beef until browned on all sides. 4. Spread dijon mustard on the beef. 5. Pulse the mushrooms, shallots, and thyme in a food processor. 6. Heat a skillet over medium-high heat and sauté the mushroom mixture until browned. 7. Deglaze the pan with red wine. 8. Roll out puff pastry and wrap the beef. 9. Brush with beaten egg. 10. Bake for 40 minutes or until pastry is golden brown.",
+         "cooking_method": [  "Preheat the oven to 425°F",  "Season the beef with salt and pepper.",  "Heat a skillet over high heat and sear the beef until browned on all sides.",  "Spread dijon mustard on the beef.",  "Pulse the mushrooms, shallots, and thyme in a food processor.",  "Heat a skillet over medium-high heat and sauté the mushroom mixture until browned.",  "Deglaze the pan with red wine.",  "Roll out puff pastry and wrap the beef.",  "Brush with beaten egg.",  "Bake for 40 minutes or until pastry is golden brown."]
+          ,
         "rating": 4.5
         
       },
@@ -285,7 +325,14 @@
           "Salt and pepper",
           "Arugula and parmesan cheese, for serving"
         ],
-        "cooking_method": "1. Freeze the beef for 30 minutes. 2. Slice the beef thinly. 3. Whisk together olive oil, lemon juice, dijon mustard, garlic, salt, and pepper. 4. Arrange the beef slices on a plate. 5. Drizzle the dressing over the beef. 6. Top with arugula and shaved parmesan cheese.",
+         "cooking_method": [
+          "Freeze the beef for 30 minutes.",
+          "Slice the beef thinly.",
+          "Whisk together olive oil, lemon juice, dijon mustard, garlic, salt, and pepper.",
+          "Arrange the beef slices on a plate.",
+          "Drizzle the dressing over the beef.",
+          "Top with arugula and shaved parmesan cheese."
+        ],
         "rating": 4.2
         
       },
@@ -303,7 +350,8 @@
           "1/4 cup water",
           "1/4 cup vegetable oil"
         ],
-        "cooking_method": "1. In a small bowl, whisk together soy sauce, brown sugar, cornstarch, and water. 2. Heat vegetable oil in a wok or skillet over high heat. 3. Add the beef and stir-fry until browned. 4. Remove the beef from the wok and set aside. 5. Add the bell peppers and onion to the wok and stir-fry until tender. 6. Add the garlic and stir-fry for 30 seconds. 7. Add the beef back to the wok and pour in the sauce. 8. Stir-fry until the sauce thickens.",
+        "cooking_method": [    "In a small bowl, whisk together soy sauce, brown sugar, cornstarch, and water.",    "Heat vegetable oil in a wok or skillet over high heat.",    "Add the beef and stir-fry until browned.",    "Remove the beef from the wok and set aside.",    "Add the bell peppers and onion to the wok and stir-fry until tender.",    "Add the garlic and stir-fry for 30 seconds.",    "Add the beef back to the wok and pour in the sauce.",    "Stir-fry until the sauce thickens."]
+          ,
         "rating": 3.8
         
       }
@@ -332,7 +380,8 @@
           "1 egg",
           "Salt and pepper"
         ],
-        "cooking_method": "1. Preheat the oven to 425°F. 2. Season the beef with salt and pepper. 3. Heat a skillet over high heat and sear the beef until browned on all sides. 4. Spread dijon mustard on the beef. 5. Pulse the mushrooms, shallots, and thyme in a food processor. 6. Heat a skillet over medium-high heat and sauté the mushroom mixture until browned. 7. Deglaze the pan with red wine. 8. Roll out puff pastry and wrap the beef. 9. Brush with beaten egg. 10. Bake for 40 minutes or until pastry is golden brown.",
+         "cooking_method": [  "Preheat the oven to 425°F",  "Season the beef with salt and pepper.",  "Heat a skillet over high heat and sear the beef until browned on all sides.",  "Spread dijon mustard on the beef.",  "Pulse the mushrooms, shallots, and thyme in a food processor.",  "Heat a skillet over medium-high heat and sauté the mushroom mixture until browned.",  "Deglaze the pan with red wine.",  "Roll out puff pastry and wrap the beef.",  "Brush with beaten egg.",  "Bake for 40 minutes or until pastry is golden brown."]
+          ,
         "rating": 4.5
         
       },
@@ -347,7 +396,14 @@
           "Salt and pepper",
           "Arugula and parmesan cheese, for serving"
         ],
-        "cooking_method": "1. Freeze the beef for 30 minutes. 2. Slice the beef thinly. 3. Whisk together olive oil, lemon juice, dijon mustard, garlic, salt, and pepper. 4. Arrange the beef slices on a plate. 5. Drizzle the dressing over the beef. 6. Top with arugula and shaved parmesan cheese.",
+         "cooking_method": [
+          "Freeze the beef for 30 minutes.",
+          "Slice the beef thinly.",
+          "Whisk together olive oil, lemon juice, dijon mustard, garlic, salt, and pepper.",
+          "Arrange the beef slices on a plate.",
+          "Drizzle the dressing over the beef.",
+          "Top with arugula and shaved parmesan cheese."
+        ],
         "rating": 4.2
         
       },
@@ -365,7 +421,8 @@
           "1/4 cup water",
           "1/4 cup vegetable oil"
         ],
-        "cooking_method": "1. In a small bowl, whisk together soy sauce, brown sugar, cornstarch, and water. 2. Heat vegetable oil in a wok or skillet over high heat. 3. Add the beef and stir-fry until browned. 4. Remove the beef from the wok and set aside. 5. Add the bell peppers and onion to the wok and stir-fry until tender. 6. Add the garlic and stir-fry for 30 seconds. 7. Add the beef back to the wok and pour in the sauce. 8. Stir-fry until the sauce thickens.",
+        "cooking_method": [    "In a small bowl, whisk together soy sauce, brown sugar, cornstarch, and water.",    "Heat vegetable oil in a wok or skillet over high heat.",    "Add the beef and stir-fry until browned.",    "Remove the beef from the wok and set aside.",    "Add the bell peppers and onion to the wok and stir-fry until tender.",    "Add the garlic and stir-fry for 30 seconds.",    "Add the beef back to the wok and pour in the sauce.",    "Stir-fry until the sauce thickens."]
+          ,
         "rating": 3.8
         
       }
