@@ -1,0 +1,53 @@
+[
+        {
+          "name": "Beef Wellington",
+          "ingredients": [
+            "2 lb beef tenderloin",
+            "1/4 cup dijon mustard",
+            "8 oz cremini mushrooms",
+            "1/4 cup chopped shallots",
+            "1 tbsp chopped fresh thyme",
+            "2 tbsp unsalted butter",
+            "1/2 cup red wine",
+            "1 lb puff pastry",
+            "1 egg",
+            "Salt and pepper"
+          ],
+          "cooking_method": "1. Preheat the oven to 425°F. 2. Season the beef with salt and pepper. 3. Heat a skillet over high heat and sear the beef until browned on all sides. 4. Spread dijon mustard on the beef. 5. Pulse the mushrooms, shallots, and thyme in a food processor. 6. Heat a skillet over medium-high heat and sauté the mushroom mixture until browned. 7. Deglaze the pan with red wine. 8. Roll out puff pastry and wrap the beef. 9. Brush with beaten egg. 10. Bake for 40 minutes or until pastry is golden brown.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "name": "Beef Carpaccio",
+          "ingredients": [
+            "1 lb beef tenderloin",
+            "2 tbsp olive oil",
+            "2 tbsp fresh lemon juice",
+            "1 tbsp dijon mustard",
+            "1 garlic clove, minced",
+            "Salt and pepper",
+            "Arugula and parmesan cheese, for serving"
+          ],
+          "cooking_method": "1. Freeze the beef for 30 minutes. 2. Slice the beef thinly. 3. Whisk together olive oil, lemon juice, dijon mustard, garlic, salt, and pepper. 4. Arrange the beef slices on a plate. 5. Drizzle the dressing over the beef. 6. Top with arugula and shaved parmesan cheese.",
+          "rating": 4.2,
+          "favorite": false
+        },
+        {
+          "name": "Beef Stir-Fry",
+          "ingredients": [
+            "1 lb beef sirloin, thinly sliced",
+            "1 red bell pepper, sliced",
+            "1 yellow bell pepper, sliced",
+            "1 onion, sliced",
+            "2 garlic cloves, minced",
+            "1/4 cup soy sauce",
+            "1 tbsp brown sugar",
+            "2 tbsp cornstarch",
+            "1/4 cup water",
+            "1/4 cup vegetable oil"
+          ],
+          "cooking_method": "1. In a small bowl, whisk together soy sauce, brown sugar, cornstarch, and water. 2. Heat vegetable oil in a wok or skillet over high heat. 3. Add the beef and stir-fry until browned. 4. Remove the beef from the wok and set aside. 5. Add the bell peppers and onion to the wok and stir-fry until tender. 6. Add the garlic and stir-fry for 30 seconds. 7. Add the beef back to the wok and pour in the sauce. 8. Stir-fry until the sauce thickens.",
+          "rating": 3.8,
+          "favorite": false
+        }
+      ]
